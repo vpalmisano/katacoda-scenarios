@@ -1,0 +1,5 @@
+Stop minikube:
+
+```
+minikube start
+```
